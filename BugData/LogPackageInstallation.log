@@ -1,0 +1,31 @@
+Activating venv
+Installing packages
+Collecting pyinstaller
+  Using cached pyinstaller-4.6-py3-none-win_amd64.whl (1.9 MB)
+Collecting pefile>=2017.8.1
+  Using cached pefile-2021.9.3.tar.gz (72 kB)
+Collecting pywin32-ctypes>=0.2.0
+  Using cached pywin32_ctypes-0.2.0-py2.py3-none-any.whl (28 kB)
+Collecting altgraph
+  Using cached altgraph-0.17.2-py2.py3-none-any.whl (21 kB)
+Collecting pyinstaller-hooks-contrib>=2020.6
+  Using cached pyinstaller_hooks_contrib-2021.3-py2.py3-none-any.whl (200 kB)
+Requirement already satisfied: setuptools in c:\users\user\source\repos\pyinstalleradstestx64\.venv\lib\site-packages (from pyinstaller) (57.4.0)
+Collecting future
+  Using cached future-0.18.2.tar.gz (829 kB)
+Using legacy 'setup.py install' for pefile, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for future, since package 'wheel' is not installed.
+Installing collected packages: future, pywin32-ctypes, pyinstaller-hooks-contrib, pefile, altgraph, pyinstaller
+    Running setup.py install for future ... done
+    Running setup.py install for pefile ... done
+Successfully installed altgraph-0.17.2 future-0.18.2 pefile-2021.9.3 pyinstaller-4.6 pyinstaller-hooks-contrib-2021.3 pywin32-ctypes-0.2.0
+WARNING: You are using pip version 21.2.3; however, version 21.3.1 is available.
+You should consider upgrading via the 'C:\Users\User\source\repos\PyInstallerAdsTestx64\.venv\Scripts\python.exe -m pip install --upgrade pip' command.
+Collecting pyads
+  Using cached pyads-3.3.8-py3-none-any.whl
+Installing collected packages: pyads
+Successfully installed pyads-3.3.8
+WARNING: You are using pip version 21.2.3; however, version 21.3.1 is available.
+You should consider upgrading via the 'C:\Users\User\source\repos\PyInstallerAdsTestx64\.venv\Scripts\python.exe -m pip install --upgrade pip' command.
+Finished!
+Press any key to continue . . .

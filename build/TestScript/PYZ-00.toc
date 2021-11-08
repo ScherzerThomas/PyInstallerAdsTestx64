@@ -1,0 +1,2 @@
+('C:\\Users\\User\\source\\repos\\PyInstallerAdsTestx64\\build\\TestScript\\PYZ-00.pyz',
+ [])
